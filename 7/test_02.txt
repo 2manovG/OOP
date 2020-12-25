@@ -1,0 +1,15 @@
+insert 0 hex 0 0 10 0
+insert 1 oct 0 0 20 0
+show
+undo
+show
+undo
+show
+redo
+show
+remove 0
+show
+redo
+undo
+show
+quit

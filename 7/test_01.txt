@@ -1,0 +1,17 @@
+insert 0 pent 0 0 10 10
+insert 0 hex 0 0 20 20
+insert 1 oct 0 0 15 15
+show
+show 1
+area
+area 0
+center
+center 0
+remove 1
+show
+save figs.txt
+new
+show
+loaad figs.txt
+show
+quit
